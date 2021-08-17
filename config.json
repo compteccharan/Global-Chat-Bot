@@ -1,0 +1,8 @@
+{
+	"prefix": "!", 
+	"token": "", 
+  "mobilepresence": "true",
+
+  "autoupdate": "true", 
+  "webmessage": "Bot Online!" 
+}
