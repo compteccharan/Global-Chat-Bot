@@ -3,16 +3,16 @@ name: "help",
 aliases: ["ahh", "docs", "commands"],
 code: `
   $color[GREEN]
-  $description[**¡Chat Global es un bot de Discord por el que te podrás comunicar con más servidores que me hayan configurado por medio de un canal!**
+  $description[**Chat Global is a Discord bot through which you can communicate with more servers that have configured me through a channel!!**
 
-  - **c/setChannel:** Establece un canal de interchat para el servidor.
-  - **c/setInvite:** Establece una invitación de interchat para el servidor.
-  - **c/setColor:** Personaliza el color de tu embed para el interchat.
-  - **c/reset:** Desactiva el canal y la invitación de interchat en el servidor.
-  - **c/config:** Mira sobre que configuración de interchat está puesta en el servidor.
+  - **!setChannel:** Establish an interchat channel for the server.
+  - **!c/setInvite:**Set an interchat invitation for the server.
+  - **!setColor:** Customize the color of your embed for the interchat.
+  - **!reset:** Deactivate the channel and the interchat invitation on the server.
+  - **!config:** See what interchat configuration is set on the server.
 
-  - **Invitame:** [Aquí](https://discord.com/oauth2/authorize?client_id=863880148822786078&scope=bot&permissions=8)
-  - **Soporte:** https://discord.gg/huguitis]
+  - **Invite of Aquire:** [Aquire](https://dsc.gg/aquire)
+  - **Support:** Join server in repo(https://github.com/compteccharan/Global-Chat-Bot#support-friend)]
   $suppressErrors
 ` 
 })
